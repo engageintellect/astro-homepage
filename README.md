@@ -1,8 +1,8 @@
-# astro-homepage
+# engage-homepage
 
 ## Description:
 
-A simple website for @engageintellect.
+A simple landing page website for @engageintellect.
 
 # Features
 
@@ -12,11 +12,11 @@ A simple website for @engageintellect.
 ## Getting Started:
 
 ```bash
-git clone https://github.com/engageintellect/astro-homepage.git
+git clone https://github.com/engageintellect/engage-homepage.git
 ```
 
 ```bash
-cd astro-homepage
+cd engage-homepage
 ```
 
 ```bash
